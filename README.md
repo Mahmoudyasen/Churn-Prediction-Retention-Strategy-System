@@ -218,4 +218,6 @@ Use predict_proba and set a custom decision threshold (e.g., flag churn if p>=0.
     Shape mismatch when predicting a new customer
     Ensure new_customer has all original feature columns used in training (before encoding). The pipeline will handle encoding/scaling.
 
+## License
 
+The code is released under the [MIT License](LICENSE). The included `Bank Customer Churn Prediction.csv` dataset belongs to its original publisher and keeps its own terms.
